@@ -1,0 +1,41 @@
+# Node.js modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# TypeScript cache and output files
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# MacOS system files
+.DS_Store
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Optional REPL history
+.node_repl_history
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Coverage directory (if you're using coverage tools like Jest)
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
